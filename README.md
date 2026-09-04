@@ -96,3 +96,6 @@ To ensure the device is truly handheld and practical for daily use, a robust pow
 ## Firmware
 
 The firmware (`main_improved2.ino`) handles camera capture, on-device inference (via Edge Impulse), TFT display rendering, and DFPlayer Mini audio playback for detected denominations.
+
+all data for this project is provided in this link drive 
+https://drive.google.com/drive/folders/1r5StB7k9eh6it5cfRXF75wriorMYNs-b
